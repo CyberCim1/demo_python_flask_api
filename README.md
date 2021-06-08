@@ -59,10 +59,6 @@ In flask, Default port is `5000`
 
 Swagger document page:  `http://127.0.0.1:5000/api/v1/`
 
-	or 
-
-http://test_api:80/api/v1/test/
-
 Go to your favorite web browser and open:
     http://127.0.0.1:5000/api/v1/  $ Check the IP address using 'docker-machine ip'
 
@@ -92,6 +88,3 @@ Tutorial
 
 - [Flask Overview](https://www.slideshare.net/maxcnunes1/flask-python-16299282)
 - [In Flask we trust](http://igordavydenko.com/talks/ua-pycon-2012.pdf)
-
-## Meta
-Cimone Wright-Hamor – Cimone.Wright-Hamor@gmail.com

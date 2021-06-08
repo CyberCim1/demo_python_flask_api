@@ -39,4 +39,4 @@ COPY gunicorn.config.py ./app/gunicorn.config.py
 
 WORKDIR /app
 
-CMD  python3 db_create.py && /usr/bin/supervisord
+CMD /usr/bin/supervisord

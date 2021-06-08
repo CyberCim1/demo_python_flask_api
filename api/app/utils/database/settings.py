@@ -8,7 +8,7 @@ RESTPLUS_MASK_SWAGGER = False
 RESTPLUS_ERROR_404_HELP = False
 
 # SQLAlchemy settings
-SQLALCHEMY_DATABASE_URI = 'postgres://postgres:cwright@10.10.13.90:5432/tlsv1'
+SQLALCHEMY_DATABASE_URI = 'postgres://postgres:cwright@10.10.13.90:5432/testv1'
 SQLALCHEMY_TRACK_MODIFICATIONS = False
 
 #TODO: intergrate with config.py file

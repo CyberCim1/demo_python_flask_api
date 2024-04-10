@@ -6,6 +6,8 @@ from flask_migrate import Migrate
 from sqlalchemy import create_engine
 from sqlalchemy_utils import database_exists, create_database
 
+#testing commit
+
 class db_setup:
     def __init__(self):
         app = Flask(__name__)

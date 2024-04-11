@@ -2,6 +2,8 @@ from __version__ import api_version
 from flask import Blueprint
 from flask_restplus import Api
 
+#Testing if it works
+
 class API:
     def __init__(self, namespace_list):
         api_title = 'Log API'
